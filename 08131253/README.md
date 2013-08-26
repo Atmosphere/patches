@@ -13,8 +13,7 @@ In pom.xml, add:
       <groupId>org.atmosphere.patches</groupId>
       <artifactId>atmosphere-08131253</artifactId>
       <name>atmosphere-08131253</name>
-      <version>1.0.0-SNAPSHOT</version>
-  </dependecy>
+      <version>1.0.0</version>
+  </dependency>
 ```
-
 
